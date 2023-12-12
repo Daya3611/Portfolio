@@ -65,7 +65,7 @@
     --hedT: currentColor;
     --hedBg: var(--coreBg);
     --hed-logoW: 160px;
-    --hed-logoH: 50px;
+    --hed-logoH: 90px;
     /* var: main */
     --mainW-max: 1220px;
     --mainPage-max: 860px;
@@ -1408,6 +1408,7 @@ details:is(.sp, .ac) summary::-webkit-details-marker {
 }
 
 .Header img {
+    padding-top: 28px;
     max-width: var(--hed-logoW);
     max-height: var(--hed-logoH)
 }
@@ -3230,5 +3231,8 @@ pre i.green {
     }
 }
 
+.logo{
+    padding-top: 10px;
+}
 /* opt: do not copy */
 /*body{user-select:none;-moz-user-select:none;-ms-user-select:none;-khtml-user-select:none;-webkit-user-select:none;-webkit-touch-callout:none} pre, code, kbd, i[rel=pre]{user-select:text;-moz-user-select:text;-ms-user-select:text;-khtml-user-select:text;-webkit-user-select:text;-webkit-touch-callout:text}*/
