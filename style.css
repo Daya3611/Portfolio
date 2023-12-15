@@ -64,8 +64,8 @@
     --hed-fontW: 600;
     --hedT: currentColor;
     --hedBg: var(--coreBg);
-    --hed-logoW: 160px;
-    --hed-logoH: 90px;
+    --hed-logoW: 150px;
+    --hed-logoH: 70px;
     /* var: main */
     --mainW-max: 1220px;
     --mainPage-max: 860px;
