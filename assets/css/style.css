@@ -14660,3 +14660,8 @@ body.white-version {
   color: red;
   font-size: 12px;
 }
+
+marquee{
+  color: rgb(252, 72, 72);
+  font-size: 12px;
+}
