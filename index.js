@@ -34,7 +34,7 @@ var sender = function () {
     document.getElementById("contact-email").value = "";
     document.getElementById("subject").value = "";
     document.getElementById("contact-message").value = "";
-    
+    alert("Contact Form Successfuly send !")
     return false;
 };
 
